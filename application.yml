@@ -1,0 +1,15 @@
+database:
+  username: "root"
+  password: "root"
+  host: "192.168.189.100"
+  port: 3306
+  dbName: "tango_im"
+  timeout: "60s"
+redis:
+  password: '!@#123'
+  host: 'vm.local'
+  port: 6379
+  db: 1
+  readTimeout:
+  writeTimeout:
+  tlsHandshakeTimeout:
